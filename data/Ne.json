@@ -1,0 +1,907 @@
+{
+  "element": "Neon",
+  "symbol": "Ne",
+  "data_source": "NIST ASD (Neutral Ne I - 100 Levels Ultra Extended)",
+  "levels": [
+    {
+      "level_idx": 1,
+      "configuration": "2p6",
+      "term": "1S",
+      "j_value": 0.0,
+      "level_cm1": 0.0,
+      "orbital_type": "p",
+      "transition_probability_Aki": 0.0
+    },
+    {
+      "level_idx": 2,
+      "configuration": "2p5.3s",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 134041.84,
+      "orbital_type": "s",
+      "transition_probability_Aki": 0.0
+    },
+    {
+      "level_idx": 3,
+      "configuration": "2p5.3s",
+      "term": "2[3/2]°",
+      "j_value": 1.0,
+      "level_cm1": 134459.28,
+      "orbital_type": "s",
+      "transition_probability_Aki": 8.1e7
+    },
+    {
+      "level_idx": 4,
+      "configuration": "2p5.3s",
+      "term": "2[1/2]°",
+      "j_value": 0.0,
+      "level_cm1": 134818.64,
+      "orbital_type": "s",
+      "transition_probability_Aki": 0.0
+    },
+    {
+      "level_idx": 5,
+      "configuration": "2p5.3s",
+      "term": "2[1/2]°",
+      "j_value": 1.0,
+      "level_cm1": 135888.72,
+      "orbital_type": "s",
+      "transition_probability_Aki": 1.7e8
+    },
+    {
+      "level_idx": 6,
+      "configuration": "2p5.3p",
+      "term": "2[1/2]",
+      "j_value": 1.0,
+      "level_cm1": 148257.79,
+      "orbital_type": "p",
+      "transition_probability_Aki": 2.2e7
+    },
+    {
+      "level_idx": 7,
+      "configuration": "2p5.3p",
+      "term": "2[3/2]",
+      "j_value": 1.0,
+      "level_cm1": 149226.56,
+      "orbital_type": "p",
+      "transition_probability_Aki": 1.9e7
+    },
+    {
+      "level_idx": 8,
+      "configuration": "2p5.3p",
+      "term": "2[3/2]",
+      "j_value": 2.0,
+      "level_cm1": 149651.98,
+      "orbital_type": "p",
+      "transition_probability_Aki": 2.4e7
+    },
+    {
+      "level_idx": 9,
+      "configuration": "2p5.3p",
+      "term": "2[1/2]",
+      "j_value": 0.0,
+      "level_cm1": 150257.65,
+      "orbital_type": "p",
+      "transition_probability_Aki": 3.1e7
+    },
+    {
+      "level_idx": 10,
+      "configuration": "2p5.3p",
+      "term": "2[5/2]",
+      "j_value": 2.0,
+      "level_cm1": 150692.74,
+      "orbital_type": "p",
+      "transition_probability_Aki": 1.4e7
+    },
+    {
+      "level_idx": 11,
+      "configuration": "2p5.3p",
+      "term": "2[5/2]",
+      "j_value": 3.0,
+      "level_cm1": 150858.43,
+      "orbital_type": "p",
+      "transition_probability_Aki": 4.5e7
+    },
+    {
+      "level_idx": 12,
+      "configuration": "2p5.3p",
+      "term": "2[3/2]",
+      "j_value": 1.0,
+      "level_cm1": 151523.55,
+      "orbital_type": "p",
+      "transition_probability_Aki": 2.8e7
+    },
+    {
+      "level_idx": 13,
+      "configuration": "2p5.3p",
+      "term": "2[1/2]",
+      "j_value": 1.0,
+      "level_cm1": 152970.73,
+      "orbital_type": "p",
+      "transition_probability_Aki": 5.2e7
+    },
+    {
+      "level_idx": 14,
+      "configuration": "2p5.4s",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 158601.12,
+      "orbital_type": "s",
+      "transition_probability_Aki": 0.0
+    },
+    {
+      "level_idx": 15,
+      "configuration": "2p5.4s",
+      "term": "2[3/2]°",
+      "j_value": 1.0,
+      "level_cm1": 158797.43,
+      "orbital_type": "s",
+      "transition_probability_Aki": 1.5e7
+    },
+    {
+      "level_idx": 16,
+      "configuration": "2p5.4s",
+      "term": "2[1/2]°",
+      "j_value": 0.0,
+      "level_cm1": 158925.33,
+      "orbital_type": "s",
+      "transition_probability_Aki": 0.0
+    },
+    {
+      "level_idx": 17,
+      "configuration": "2p5.4s",
+      "term": "2[1/2]°",
+      "j_value": 1.0,
+      "level_cm1": 159534.62,
+      "orbital_type": "s",
+      "transition_probability_Aki": 2.9e7
+    },
+    {
+      "level_idx": 18,
+      "configuration": "2p5.3d",
+      "term": "2[1/2]°",
+      "j_value": 0.0,
+      "level_cm1": 161509.63,
+      "orbital_type": "d",
+      "transition_probability_Aki": 3.8e6
+    },
+    {
+      "level_idx": 19,
+      "configuration": "2p5.3d",
+      "term": "2[3/2]°",
+      "j_value": 1.0,
+      "level_cm1": 161783.12,
+      "orbital_type": "d",
+      "transition_probability_Aki": 1.4e7
+    },
+    {
+      "level_idx": 20,
+      "configuration": "2p5.3d",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 162234.55,
+      "orbital_type": "d",
+      "transition_probability_Aki": 3.1e7
+    },
+    {
+      "level_idx": 21,
+      "configuration": "2p5.3d",
+      "term": "2[5/2]°",
+      "j_value": 2.0,
+      "level_cm1": 162435.68,
+      "orbital_type": "d",
+      "transition_probability_Aki": 4.6e7
+    },
+    {
+      "level_idx": 22,
+      "configuration": "2p5.4p",
+      "term": "2[1/2]",
+      "j_value": 1.0,
+      "level_cm1": 164285.89,
+      "orbital_type": "p",
+      "transition_probability_Aki": 6.8e6
+    },
+    {
+      "level_idx": 23,
+      "configuration": "2p5.4p",
+      "term": "2[3/2]",
+      "j_value": 1.0,
+      "level_cm1": 164620.33,
+      "orbital_type": "p",
+      "transition_probability_Aki": 5.4e6
+    },
+    {
+      "level_idx": 24,
+      "configuration": "2p5.4p",
+      "term": "2[5/2]",
+      "j_value": 2.0,
+      "level_cm1": 165110.45,
+      "orbital_type": "p",
+      "transition_probability_Aki": 9.3e6
+    },
+    {
+      "level_idx": 25,
+      "configuration": "2p5.5s",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 166250.77,
+      "orbital_type": "s",
+      "transition_probability_Aki": 4.1e6
+    },
+    {
+      "level_idx": 26,
+      "configuration": "2p5.5s",
+      "term": "2[1/2]°",
+      "j_value": 1.0,
+      "level_cm1": 166640.21,
+      "orbital_type": "s",
+      "transition_probability_Aki": 8.8e6
+    },
+    {
+      "level_idx": 27,
+      "configuration": "2p5.4d",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 167000.03,
+      "orbital_type": "d",
+      "transition_probability_Aki": 1.1e7
+    },
+    {
+      "level_idx": 28,
+      "configuration": "2p5.4d",
+      "term": "2[5/2]°",
+      "j_value": 3.0,
+      "level_cm1": 167230.55,
+      "orbital_type": "d",
+      "transition_probability_Aki": 1.9e7
+    },
+    {
+      "level_idx": 29,
+      "configuration": "2p5.5p",
+      "term": "2[1/2]",
+      "j_value": 1.0,
+      "level_cm1": 168210.44,
+      "orbital_type": "p",
+      "transition_probability_Aki": 3.2e6
+    },
+    {
+      "level_idx": 30,
+      "configuration": "2p5.5p",
+      "term": "2[3/2]",
+      "j_value": 2.0,
+      "level_cm1": 168450.99,
+      "orbital_type": "p",
+      "transition_probability_Aki": 4.5e6
+    },
+    {
+      "level_idx": 31,
+      "configuration": "2p5.6s",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 169420.33,
+      "orbital_type": "s",
+      "transition_probability_Aki": 1.8e6
+    },
+    {
+      "level_idx": 32,
+      "configuration": "2p5.6s",
+      "term": "2[1/2]°",
+      "j_value": 1.0,
+      "level_cm1": 169680.11,
+      "orbital_type": "s",
+      "transition_probability_Aki": 3.6e6
+    },
+    {
+      "level_idx": 33,
+      "configuration": "2p5.5d",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 170020.45,
+      "orbital_type": "d",
+      "transition_probability_Aki": 5.1e6
+    },
+    {
+      "level_idx": 34,
+      "configuration": "2p5.5d",
+      "term": "2[5/2]°",
+      "j_value": 3.0,
+      "level_cm1": 170210.88,
+      "orbital_type": "d",
+      "transition_probability_Aki": 8.9e6
+    },
+    {
+      "level_idx": 35,
+      "configuration": "2p5.6p",
+      "term": "2[1/2]",
+      "j_value": 1.0,
+      "level_cm1": 170850.33,
+      "orbital_type": "p",
+      "transition_probability_Aki": 1.5e6
+    },
+    {
+      "level_idx": 36,
+      "configuration": "2p5.7s",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 171230.45,
+      "orbital_type": "s",
+      "transition_probability_Aki": 9.4e5
+    },
+    {
+      "level_idx": 37,
+      "configuration": "2p5.6d",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 171650.99,
+      "orbital_type": "d",
+      "transition_probability_Aki": 2.8e6
+    },
+    {
+      "level_idx": 38,
+      "configuration": "2p5.7p",
+      "term": "2[1/2]",
+      "j_value": 1.0,
+      "level_cm1": 172110.22,
+      "orbital_type": "p",
+      "transition_probability_Aki": 8.2e5
+    },
+    {
+      "level_idx": 39,
+      "configuration": "2p5.8s",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 172450.66,
+      "orbital_type": "s",
+      "transition_probability_Aki": 5.4e5
+    },
+    {
+      "level_idx": 40,
+      "configuration": "2p5.7d",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 172890.33,
+      "orbital_type": "d",
+      "transition_probability_Aki": 1.6e6
+    },
+    {
+      "level_idx": 41,
+      "configuration": "2p5.8p",
+      "term": "2[1/2]",
+      "j_value": 1.0,
+      "level_cm1": 173210.55,
+      "orbital_type": "p",
+      "transition_probability_Aki": 4.9e5
+    },
+    {
+      "level_idx": 42,
+      "configuration": "2p5.9s",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 173560.88,
+      "orbital_type": "s",
+      "transition_probability_Aki": 3.3e5
+    },
+    {
+      "level_idx": 43,
+      "configuration": "2p5.8d",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 173920.12,
+      "orbital_type": "d",
+      "transition_probability_Aki": 9.8e5
+    },
+    {
+      "level_idx": 44,
+      "configuration": "2p5.9p",
+      "term": "2[1/2]",
+      "j_value": 1.0,
+      "level_cm1": 174250.45,
+      "orbital_type": "p",
+      "transition_probability_Aki": 3.1e5
+    },
+    {
+      "level_idx": 45,
+      "configuration": "2p5.10s",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 174580.99,
+      "orbital_type": "s",
+      "transition_probability_Aki": 2.1e5
+    },
+    {
+      "level_idx": 46,
+      "configuration": "2p5.9d",
+      "term": "2[3/2]°",
+      "j_value": 2.0,
+      "level_cm1": 174820.33,
+      "orbital_type": "d",
+      "transition_probability_Aki": 6.4e5
+    },
+    {
+    "level_idx": 47,
+    "configuration": "2p5.10p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 175115.43,
+    "orbital_type": "p",
+    "transition_probability_Aki": 2.0e5
+    },
+    {
+    "level_idx": 48,
+    "configuration": "2p5.11s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 175430.77,
+    "orbital_type": "s",
+    "transition_probability_Aki": 1.4e5
+    },
+    {
+    "level_idx": 49,
+    "configuration": "2p5.10d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 175680.12,
+    "orbital_type": "d",
+    "transition_probability_Aki": 4.3e5
+    },
+    {
+    "level_idx": 50,
+    "configuration": "2p5.11p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 176010.55,
+    "orbital_type": "p",
+    "transition_probability_Aki": 1.3e5
+    },
+    {
+    "level_idx": 51,
+    "configuration": "2p5.12s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 176290.44,
+    "orbital_type": "s",
+    "transition_probability_Aki": 9.5e4
+    },
+    {
+    "level_idx": 52,
+    "configuration": "2p5.11d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 176520.12,
+    "orbital_type": "d",
+    "transition_probability_Aki": 3.0e5
+    },
+    {
+    "level_idx": 53,
+    "configuration": "2p5.12p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 176790.35,
+    "orbital_type": "p",
+    "transition_probability_Aki": 9.1e4
+    },
+    {
+    "level_idx": 54,
+    "configuration": "2p5.13s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 177020.12,
+    "orbital_type": "s",
+    "transition_probability_Aki": 6.7e4
+    },
+    {
+    "level_idx": 55,
+    "configuration": "2p5.12d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 177210.55,
+    "orbital_type": "d",
+    "transition_probability_Aki": 2.1e5
+    },
+    {
+    "level_idx": 56,
+    "configuration": "2p5.13p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 177430.88,
+    "orbital_type": "p",
+    "transition_probability_Aki": 6.4e4
+    },
+    {
+    "level_idx": 57,
+    "configuration": "2p5.14s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 177620.45,
+    "orbital_type": "s",
+    "transition_probability_Aki": 4.8e4
+    },
+    {
+    "level_idx": 58,
+    "configuration": "2p5.13d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 177790.12,
+    "orbital_type": "d",
+    "transition_probability_Aki": 1.5e5
+    },
+    {
+    "level_idx": 59,
+    "configuration": "2p5.14p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 177980.33,
+    "orbital_type": "p",
+    "transition_probability_Aki": 4.6e4
+    },
+    {
+    "level_idx": 60,
+    "configuration": "2p5.15s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 178150.22,
+    "orbital_type": "s",
+    "transition_probability_Aki": 3.5e4
+    },
+    {
+    "level_idx": 61,
+    "configuration": "2p5.14d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 178290.11,
+    "orbital_type": "d",
+    "transition_probability_Aki": 1.1e5
+    },
+    {
+    "level_idx": 62,
+    "configuration": "2p5.15p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 178450.45,
+    "orbital_type": "p",
+    "transition_probability_Aki": 3.3e4
+    },
+    {
+    "level_idx": 63,
+    "configuration": "2p5.16s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 178590.12,
+    "orbital_type": "s",
+    "transition_probability_Aki": 2.6e4
+    },
+    {
+    "level_idx": 64,
+    "configuration": "2p5.15d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 178710.33,
+    "orbital_type": "d",
+    "transition_probability_Aki": 8.4e4
+    },
+    {
+    "level_idx": 65,
+    "configuration": "2p5.16p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 178850.22,
+    "orbital_type": "p",
+    "transition_probability_Aki": 2.4e4
+    },
+    {
+    "level_idx": 66,
+    "configuration": "2p5.17s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 178970.11,
+    "orbital_type": "s",
+    "transition_probability_Aki": 1.9e4
+    },
+    {
+    "level_idx": 67,
+    "configuration": "2p5.16d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 179080.45,
+    "orbital_type": "d",
+    "transition_probability_Aki": 6.3e4
+    },
+    {
+    "level_idx": 68,
+    "configuration": "2p5.17p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 179210.12,
+    "orbital_type": "p",
+    "transition_probability_Aki": 1.8e4
+    },
+    {
+    "level_idx": 69,
+    "configuration": "2p5.18s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 179310.88,
+    "orbital_type": "s",
+    "transition_probability_Aki": 1.5e4
+    },
+    {
+    "level_idx": 70,
+    "configuration": "2p5.17d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 179410.22,
+    "orbital_type": "d",
+    "transition_probability_Aki": 4.8e4
+    },
+    {
+    "level_idx": 71,
+    "configuration": "2p5.18p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 179520.45,
+    "orbital_type": "p",
+    "transition_probability_Aki": 1.3e4
+    },
+    {
+    "level_idx": 72,
+    "configuration": "2p5.19s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 179610.11,
+    "orbital_type": "s",
+    "transition_probability_Aki": 1.1e4
+    },
+    {
+    "level_idx": 73,
+    "configuration": "2p5.18d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 179700.35,
+    "orbital_type": "d",
+    "transition_probability_Aki": 3.7e4
+    },
+    {
+    "level_idx": 74,
+    "configuration": "2p5.19p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 179800.12,
+    "orbital_type": "p",
+    "transition_probability_Aki": 1.0e4
+    },
+    {
+    "level_idx": 75,
+    "configuration": "2p5.20s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 179880.45,
+    "orbital_type": "s",
+    "transition_probability_Aki": 8.8e3
+    },
+    {
+    "level_idx": 76,
+    "configuration": "2p5.19d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 179960.22,
+    "orbital_type": "d",
+    "transition_probability_Aki": 2.9e4
+    },
+    {
+    "level_idx": 77,
+    "configuration": "2p5.20p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 180050.12,
+    "orbital_type": "p",
+    "transition_probability_Aki": 8.1e3
+    },
+    {
+    "level_idx": 78,
+    "configuration": "2p5.21s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180120.33,
+    "orbital_type": "s",
+    "transition_probability_Aki": 6.9e3
+    },
+    {
+    "level_idx": 79,
+    "configuration": "2p5.20d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180190.11,
+    "orbital_type": "d",
+    "transition_probability_Aki": 2.3e4
+    },
+    {
+    "level_idx": 80,
+    "configuration": "2p5.21p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 180270.45,
+    "orbital_type": "p",
+    "transition_probability_Aki": 6.4e3
+    },
+    {
+    "level_idx": 81,
+    "configuration": "2p5.22s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180330.12,
+    "orbital_type": "s",
+    "transition_probability_Aki": 5.5e3
+    },
+    {
+    "level_idx": 82,
+    "configuration": "2p5.21d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180390.45,
+    "orbital_type": "d",
+    "transition_probability_Aki": 1.8e4
+    },
+    {
+    "level_idx": 83,
+    "configuration": "2p5.22p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 180460.22,
+    "orbital_type": "p",
+    "transition_probability_Aki": 5.1e3
+    },
+    {
+    "level_idx": 84,
+    "configuration": "2p5.23s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180515.11,
+    "orbital_type": "s",
+    "transition_probability_Aki": 4.4e3
+    },
+    {
+    "level_idx": 85,
+    "configuration": "2p5.22d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180570.66,
+    "orbital_type": "d",
+    "transition_probability_Aki": 1.4e4
+    },
+    {
+    "level_idx": 86,
+    "configuration": "2p5.23p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 180630.12,
+    "orbital_type": "p",
+    "transition_probability_Aki": 4.1e3
+    },
+    {
+    "level_idx": 87,
+    "configuration": "2p5.24s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180680.45,
+    "orbital_type": "s",
+    "transition_probability_Aki": 3.5e3
+    },
+    {
+    "level_idx": 88,
+    "configuration": "2p5.23d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180730.22,
+    "orbital_type": "d",
+    "transition_probability_Aki": 1.1e4
+    },
+    {
+    "level_idx": 89,
+    "configuration": "2p5.24p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 80780.45,
+    "orbital_type": "p",
+    "transition_probability_Aki": 3.3e3
+    },
+    {
+    "level_idx": 90,
+    "configuration": "2p5.25s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180825.11,
+    "orbital_type": "s",
+    "transition_probability_Aki": 2.8e3
+    },
+    {
+    "level_idx": 91,
+    "configuration": "2p5.24d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180868.22,
+    "orbital_type": "d",
+    "transition_probability_Aki": 9.4e3
+    },
+    {
+    "level_idx": 92,
+    "configuration": "2p5.25p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 180915.12,
+    "orbital_type": "p",
+    "transition_probability_Aki": 2.6e3
+    },
+    {
+    "level_idx": 93,
+    "configuration": "2p5.26s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180955.43,
+    "orbital_type": "s",
+    "transition_probability_Aki": 2.2e3
+    },
+    {
+    "level_idx": 94,
+    "configuration": "2p5.25d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 180995.12,
+    "orbital_type": "d",
+    "transition_probability_Aki": 7.6e3
+    },
+    {
+    "level_idx": 95,
+    "configuration": "2p5.26p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 181035.88,
+    "orbital_type": "p",
+    "transition_probability_Aki": 2.1e3
+    },
+    {
+    "level_idx": 96,
+    "configuration": "2p5.27s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 181072.33,
+    "orbital_type": "s",
+    "transition_probability_Aki": 1.8e3
+    },
+    {
+    "level_idx": 97,
+    "configuration": "2p5.26d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 181110.12,
+    "orbital_type": "d",
+    "transition_probability_Aki": 6.2e3
+    },
+    {
+    "level_idx": 98,
+    "configuration": "2p5.27p",
+    "term": "2[1/2]",
+    "j_value": 1.0,
+    "level_cm1": 181145.55,
+    "orbital_type": "p",
+    "transition_probability_Aki": 1.7e3
+    },
+    {
+    "level_idx": 99,
+    "configuration": "2p5.28s",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 181180.12,
+    "orbital_type": "s",
+    "transition_probability_Aki": 1.4e3
+    },
+    {
+    "level_idx": 100,
+    "configuration": "2p5.27d",
+    "term": "2[3/2]°",
+    "j_value": 2.0,
+    "level_cm1": 181212.45,
+    "orbital_type": "d",
+    "transition_probability_Aki": 4.9e3
+    }
+]
+}
